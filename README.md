@@ -1,4 +1,6 @@
 #<h1 align="center">Hi, I'm Ashish</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashish-kharde1&label=Profile%20views&color=0e75b6&style=flat" alt="Ashish-kharde1" /> </p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kharde-b5a114288/)
 # 💻 Tech Stack:
